@@ -1,0 +1,8 @@
+{
+  "name": "sms-test",
+  "app_id": "fa98bf42",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
